@@ -1,4 +1,20 @@
-<svg width="11" height="11" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9.64 11H1.36C0.61 11 0 10.39 0 9.64V1.36C0 0.61 0.61 0 1.36 0H9.64C10.39 0 11 0.61 11 1.36V9.64C11 10.39 10.39 11 9.64 11Z" fill="#353434"/>
-<path d="M3.4 5.72C3.4 4.13 4.23 3.14 5.57 3.14C6.61 3.14 7.42 3.79 7.57 4.74H6.94C6.78 4.1 6.25 3.7 5.57 3.7C4.62 3.7 4.03 4.48 4.03 5.72C4.03 6.96 4.62 7.73 5.57 7.73C6.26 7.73 6.78 7.38 6.94 6.81H7.57C7.4 7.71 6.62 8.3 5.58 8.3C4.24 8.3 3.4 7.31 3.4 5.72Z" fill="white"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Шар_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 11 11" style="enable-background:new 0 0 11 11;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:#404040;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g id="Шар_3" class="st0">
+</g>
+<g>
+	<path class="st1" d="M9.6,11H1.4C0.6,11,0,10.4,0,9.6V1.4C0,0.6,0.6,0,1.4,0h8.3C10.4,0,11,0.6,11,1.4v8.3C11,10.4,10.4,11,9.6,11z
+		"/>
+	<g>
+		<path class="st2" d="M3.4,5.7c0-1.6,0.8-2.6,2.2-2.6c1,0,1.8,0.7,2,1.6H6.9c-0.2-0.6-0.7-1-1.4-1C4.6,3.7,4,4.5,4,5.7s0.6,2,1.5,2
+			c0.7,0,1.2-0.3,1.4-0.9h0.6c-0.2,0.9-1,1.5-2,1.5C4.2,8.3,3.4,7.3,3.4,5.7z"/>
+	</g>
+</g>
 </svg>
